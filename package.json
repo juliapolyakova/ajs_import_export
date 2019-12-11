@@ -1,0 +1,25 @@
+{
+  "name": "import_export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliapolyakova/ajs_import_export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliapolyakova/ajs_import_export/issues"
+  },
+  "homepage": "https://github.com/juliapolyakova/ajs_import_export#readme",
+  "devDependencies": {
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
